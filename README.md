@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **flask and firebase**
 
-- 📫 How to reach me **longyklee+github@gmail.com**
+- 📫 How to reach me **github@aaronlee.tech**
 
 - ⚡ Fun fact **I constantly swear while writing code**
 
