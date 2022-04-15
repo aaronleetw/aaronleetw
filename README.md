@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronleetw" alt="aaronleetw" /></a> </p>
 
-- 🔭 I’m currently working on **our school's Attendance system (it's private -- sorry!)**
+- 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **node.js, go, and SQL**
+- 🌱 I’m currently learning **Express.js and Svelte**
 
 - 👨‍💻 All of my projects are available at [https://aaronlee.tech/projects/](https://aaronlee.tech/projects/)
-
-- 📝 I regularly write articles on [https://aaronlee.tech](https://aaronlee.tech)
 
 - 💬 Ask me about **flask and firebase**
 
@@ -19,6 +17,7 @@
 
 - ⚡ Fun fact **I constantly swear while writing code**
 
+![Metrics](https://metrics.lecoq.io/aaronleetw?template=classic&languages=1&lines=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTaipei)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/helloworld_tw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helloworld_tw_" height="30" width="40" /></a>
@@ -33,8 +32,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aaronleetw"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aaronleetw" /></a></p><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronleetw&show_icons=true&locale=en" alt="aaronleetw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronleetw&theme=default" alt="aaronleetw" /></p>
-
-Made using [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+Made using [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/) and [lowlighter/metrics](https://github.com/lowlighter/metrics)
